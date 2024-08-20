@@ -1,0 +1,17 @@
+{% url 'index' %} = index.html
+{% url 'Login' %} = Login.html
+{% url 'sobre' %} = sobre.html
+{% url 'Contate-nos'%} = contate-nos.html
+{% url 'monitorshop'%} = monitorshop.html
+{% url 'coleção'%} = coleção.html
+{% url 'category-frutas' %} = category-frutas.html
+{% url 'category-temperos' %} = category-temperos.html
+{% url 'category-verduras' %} = category-verduras.html
+{% url 'coleção' %} = coleção.html
+{% url 'product-alface' %} = product-alface.html
+{% url 'product-banana' %} = product-banana.html
+{% url 'product-cebola' %} = product-cebola.html
+{% url 'product-cominho' %} = product-cominho.html
+{% url 'product-maça' %} = product-maça.html
+{% url 'product-tomate' %} = product-tomate.html
+{% url 'shop-now1' %} = shop-now1.html
